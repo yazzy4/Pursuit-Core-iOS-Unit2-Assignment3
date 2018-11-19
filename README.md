@@ -39,4 +39,4 @@ You have built hangman for a command line app before.  Now it's time to build it
 
 - Implement a single player version that selects a word at random from a given list
 - For single player, allow the user to select a category from which a word will be chosen at random
-- Allow the user to select what images the hangman displays as
+- Allow the user to select what images the hangman game displays
